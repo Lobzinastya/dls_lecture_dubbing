@@ -1,0 +1,28 @@
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Big media files
+*.wav
+*.mp4
+
+# Temporary / outputs folders
+temp/
+outputs/
+nisqa_chunks/
+
+# Params folder (JSON / CSV)
+params/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env
+EOL

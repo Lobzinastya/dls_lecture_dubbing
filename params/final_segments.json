@@ -1,0 +1,4389 @@
+[
+  {
+    "phrase_id": 0,
+    "start": 5.346,
+    "end": 14.686,
+    "duration": 9.34,
+    "vad_ids": [
+      0,
+      1
+    ],
+    "asr_text": "Всем привет и добро пожаловать на курс по спичу, который мы запускаем в этом году впервые. Меня зовут Асель.",
+    "text_en": "Hello, everyone, and welcome to the dream course we're starting this year for the first time.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_000.wav",
+    "tts_duration": 5.568666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.926
+      ],
+      [
+        1.186,
+        3.71
+      ],
+      [
+        4.066,
+        5.054
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.0714888888888885,
+      "pause_after": 2.1429777777777774,
+      "scale": 1.1,
+      "new_duration": 6.125533333333334
+    }
+  },
+  {
+    "phrase_id": 1,
+    "start": 14.818,
+    "end": 22.878,
+    "duration": 8.06,
+    "vad_ids": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "asr_text": "Я буду перетекать этот ползунок с карабанщиком периодически туда-сюда. Вот давайте перетяну к себе.",
+    "text_en": "I'm gonna run this crawler with the carbber from time to time.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_001.wav",
+    "tts_duration": 4.128666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.598
+      ],
+      [
+        1.762,
+        3.614
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.1728222222222222,
+      "pause_after": 2.345644444444445,
+      "scale": 1.1,
+      "new_duration": 4.541533333333334
+    }
+  },
+  {
+    "phrase_id": 2,
+    "start": 22.978,
+    "end": 38.27,
+    "duration": 15.292000000000002,
+    "vad_ids": [
+      6,
+      7
+    ],
+    "asr_text": "На свою фотографию. Давайте ещё раз. Меня зовут Асель. Я являюсь организатором этого курса вместе с этими замечательными людьми, которых вы видите на слайде. Что я хотела бы отметить? Что все эти люди, которых вы видите, являются действующими",
+    "text_en": "I'm organizing this course with these wonderful people you see on the slide. What would I like to say?",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_002.wav",
+    "tts_duration": 6.764,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.678
+      ],
+      [
+        4.898,
+        6.27
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.6172,
+      "pause_after": 5.234400000000001,
+      "scale": 1.1,
+      "new_duration": 7.440400000000001
+    }
+  },
+  {
+    "phrase_id": 3,
+    "start": 38.37,
+    "end": 56.35,
+    "duration": 17.980000000000004,
+    "vad_ids": [
+      8,
+      9,
+      10
+    ],
+    "asr_text": "В этом году участвуют мл-инженеры и действующие спичерки. Поэтому все материалы и лекции, которые вы будете слушать, будут содержать в себе наиболее актуальную информацию.",
+    "text_en": "So all the materials and lectures you'll be listening to will contain the most relevant information.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_003.wav",
+    "tts_duration": 7.5633333333333335,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.102
+      ],
+      [
+        3.266,
+        5.886
+      ],
+      [
+        6.626,
+        7.006
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 3.220111111111112,
+      "pause_after": 6.440222222222223,
+      "scale": 1.1,
+      "new_duration": 8.319666666666668
+    }
+  },
+  {
+    "phrase_id": 4,
+    "start": 56.674,
+    "end": 67.006,
+    "duration": 10.332,
+    "vad_ids": [
+      11,
+      12
+    ],
+    "asr_text": "Игнорируют все темы, которые будут рассказывать каждый день. И знают все инсайты, все сочные моменты, которые",
+    "text_en": "Ignore all the topics that they're gonna talk about every day, and they know all the sites, all the juicy moments that",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_004.wav",
+    "tts_duration": 7.8406666666666665,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.91
+      ],
+      [
+        3.938,
+        5.342
+      ],
+      [
+        5.762,
+        7.326
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5690888888888891,
+      "pause_after": 1.1381777777777784,
+      "scale": 1.1,
+      "new_duration": 8.624733333333333
+    }
+  },
+  {
+    "phrase_id": 5,
+    "start": 67.81,
+    "end": 70.782,
+    "duration": 2.971999999999994,
+    "vad_ids": [
+      13,
+      14
+    ],
+    "asr_text": "Есть в этом домене.",
+    "text_en": "There is in this domain.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_005.wav",
+    "tts_duration": 2.731333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.766
+      ],
+      [
+        0.962,
+        2.238
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0881132536001932,
+      "new_duration": 2.971999999999994
+    }
+  },
+  {
+    "phrase_id": 6,
+    "start": 72.034,
+    "end": 80.222,
+    "duration": 8.187999999999988,
+    "vad_ids": [
+      15,
+      16
+    ],
+    "asr_text": "Я подробнее про каждого из них расскажу позже, когда мы будем проходить по всему силабусу. Сейчас мне бы хотелось...",
+    "text_en": "I'll tell you more about each one of them later when we're going all over the powerbus.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_006.wav",
+    "tts_duration": 5.515333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.302
+      ],
+      [
+        2.914,
+        5.022
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7070444444444405,
+      "pause_after": 1.4140888888888807,
+      "scale": 1.1,
+      "new_duration": 6.066866666666667
+    }
+  },
+  {
+    "phrase_id": 7,
+    "start": 80.322,
+    "end": 89.47,
+    "duration": 9.147999999999996,
+    "vad_ids": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "asr_text": "Ещё раз передвинуть крапышочек сюда. И рассказать сначала про то, как выглядит",
+    "text_en": "One more time to move the knuckles over here and tell me what it looks like first.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_007.wav",
+    "tts_duration": 5.654,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.078
+      ],
+      [
+        2.466,
+        4.222
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9761999999999986,
+      "pause_after": 1.9523999999999972,
+      "scale": 1.1,
+      "new_duration": 6.2194
+    }
+  },
+  {
+    "phrase_id": 8,
+    "start": 89.602,
+    "end": 110.302,
+    "duration": 20.700000000000003,
+    "vad_ids": [
+      23,
+      24,
+      25
+    ],
+    "asr_text": "Общий силабус и вообще рассказать про мотивацию, почему силабус выглядит именно так. Итак, давайте посмотрим на эту табличку, что мы видим. Первые восемь недель будут посвящены фундаментальным знаниям в области speech, а именно первые четыре недели посвящены такому большому блоку, который называется",
+    "text_en": "So let's look at this sign that we see. The first eight weeks will be devoted to basic knowledge in the field of speech, which is the first four weeks dedicated to a big block called",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_008.wav",
+    "tts_duration": 12.385333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.79
+      ],
+      [
+        2.21,
+        3.198
+      ],
+      [
+        4.578,
+        7.166
+      ],
+      [
+        7.33,
+        8.574
+      ],
+      [
+        8.802,
+        11.902
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.3587111111111114,
+      "pause_after": 4.717422222222224,
+      "scale": 1.1,
+      "new_duration": 13.623866666666668
+    }
+  },
+  {
+    "phrase_id": 9,
+    "start": 110.594,
+    "end": 122.462,
+    "duration": 11.86800000000001,
+    "vad_ids": [
+      26
+    ],
+    "asr_text": "Аудиорепрезентация. То есть здесь мы будем обсуждать то, как аудио и звук представляется в компьютере, представляется в качестве input для",
+    "text_en": "Audiorisation. So here we're going to discuss how audio and sound are presented on a computer, presented as an input for",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_009.wav",
+    "tts_duration": 10.252,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.99
+      ],
+      [
+        3.042,
+        7.55
+      ],
+      [
+        7.97,
+        9.726
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.19693333333333563,
+      "pause_after": 0.39386666666667125,
+      "scale": 1.1,
+      "new_duration": 11.277200000000002
+    }
+  },
+  {
+    "phrase_id": 10,
+    "start": 122.914,
+    "end": 123.678,
+    "duration": 0.7639999999999958,
+    "vad_ids": [
+      27
+    ],
+    "asr_text": "Моделей",
+    "text_en": "Models",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_010.wav",
+    "tts_duration": 1.206,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.734
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.3323636363636404,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.0963636363636362
+    }
+  },
+  {
+    "phrase_id": 11,
+    "start": 124.61,
+    "end": 145.566,
+    "duration": 20.956000000000003,
+    "vad_ids": [
+      28
+    ],
+    "asr_text": "Вот для нейронок. И это всё мы подробнее разберём в первых четырёх неделях. Следующие четыре недели посвящены двум фундаментальным задачам в области speech processing. Это ASR и TTS. ASR — это speech-to-text задача, то есть тогда, когда у вас есть какая-то речь, и вы хотите вытащить из неё текст, который говорился там.",
+    "text_en": "Here's for the neurons. And this is all going to be more detailed in the first four weeks. The next four weeks are about two fundamental tasks in the field of speech processing. It's ASR and TTS. ASR is a speech-to-text problem, which is when you have a speech, and you want to take out the text that was said there.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_011.wav",
+    "tts_duration": 22.904666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.374
+      ],
+      [
+        1.826,
+        5.374
+      ],
+      [
+        7.074,
+        11.806
+      ],
+      [
+        13.122,
+        13.598
+      ],
+      [
+        13.922,
+        15.55
+      ],
+      [
+        16.002,
+        18.11
+      ],
+      [
+        18.69,
+        19.998
+      ],
+      [
+        20.098,
+        22.398
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0,
+      "delta_after": 0,
+      "scale": 0.9149227231714062,
+      "new_duration": 20.956000000000003
+    }
+  },
+  {
+    "phrase_id": 12,
+    "start": 145.698,
+    "end": 153.79,
+    "duration": 8.091999999999985,
+    "vad_ids": [
+      29,
+      30
+    ],
+    "asr_text": "TTS — это обратная задача, когда у вас есть текст, и вы хотите из него сгенерировать речь, которая бы говорила этот текст.",
+    "text_en": "TTS is the reverse problem when you have a text, and you want to generate a speech that says this text.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_012.wav",
+    "tts_duration": 7.008666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.558
+      ],
+      [
+        2.946,
+        6.526
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.12748888888888357,
+      "pause_after": 0.2549777777777672,
+      "scale": 1.1,
+      "new_duration": 7.709533333333334
+    }
+  },
+  {
+    "phrase_id": 13,
+    "start": 153.922,
+    "end": 165.886,
+    "duration": 11.963999999999999,
+    "vad_ids": [
+      31,
+      32
+    ],
+    "asr_text": "Далее у нас идёт большой блок, который будет длиться целых две недели, который называется Speech Tasks Overview. На самом деле в Speech домене огромное количество",
+    "text_en": "Then we have a big block that's gonna last for two whole weeks, which is called Speech Tasks Overview.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_013.wav",
+    "tts_duration": 5.707333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.878
+      ],
+      [
+        3.202,
+        5.214
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.8953111111111103,
+      "pause_after": 3.790622222222221,
+      "scale": 1.1,
+      "new_duration": 6.278066666666668
+    }
+  },
+  {
+    "phrase_id": 14,
+    "start": 166.05,
+    "end": 183.326,
+    "duration": 17.275999999999982,
+    "vad_ids": [
+      33,
+      34
+    ],
+    "asr_text": "Задач и подзадач, и поддоменов. Конечно же, всех их рассказать на курсе просто физически невозможно, так как их огромное количество. Но какие-то наиболее интересные, наиболее актуальные задачи",
+    "text_en": "Of course, it's physically impossible to tell them all in the course, because there's a lot of them, but some of the most interesting, most relevant things.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_014.wav",
+    "tts_duration": 9.099333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.862
+      ],
+      [
+        1.122,
+        5.566
+      ],
+      [
+        5.666,
+        8.638
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.4222444444444378,
+      "pause_after": 4.8444888888888755,
+      "scale": 1.1,
+      "new_duration": 10.009266666666669
+    }
+  },
+  {
+    "phrase_id": 15,
+    "start": 183.522,
+    "end": 195.134,
+    "duration": 11.611999999999995,
+    "vad_ids": [
+      35,
+      36
+    ],
+    "asr_text": "Мы как раз расскажем в этих двух неделях. Следующие два модуля — это speech LLM и low-resource, не английские языки.",
+    "text_en": "We're just going to tell you in these two weeks. The next two modules are speech LLM and low-resource, not English languages.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_015.wav",
+    "tts_duration": 10.337333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.334
+      ],
+      [
+        2.786,
+        3.294
+      ],
+      [
+        3.778,
+        7.23
+      ],
+      [
+        7.458,
+        9.022
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.08031111111110907,
+      "pause_after": 0.16062222222221817,
+      "scale": 1.1,
+      "new_duration": 11.371066666666668
+    }
+  },
+  {
+    "phrase_id": 16,
+    "start": 196.002,
+    "end": 206.27,
+    "duration": 10.268,
+    "vad_ids": [
+      37,
+      38
+    ],
+    "asr_text": "Сейчас на данный момент ЛМК является наиболее hot-topic'ом в целом по всему миру. И поэтому, конечно же,",
+    "text_en": "Right now, LMC is the most hot-topic all over the world.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_016.wav",
+    "tts_duration": 5.195333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.47
+      ],
+      [
+        1.698,
+        3.294
+      ],
+      [
+        3.682,
+        4.702
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.5177111111111115,
+      "pause_after": 3.0354222222222225,
+      "scale": 1.1,
+      "new_duration": 5.7148666666666665
+    }
+  },
+  {
+    "phrase_id": 17,
+    "start": 207.138,
+    "end": 221.15,
+    "duration": 14.012,
+    "vad_ids": [
+      39
+    ],
+    "asr_text": "Учитывая, что весь мир и все компании двигаются в сторону AGI, все хотят иметь не только текстовые LLM, но и мультимодальные или же Omni LLM. Omni значит, что",
+    "text_en": "Given that the whole world and all companies are moving towards AGI, everyone wants not only text LLM, but also multimodal or Omni LLM.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_017.wav",
+    "tts_duration": 8.726,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.454
+      ],
+      [
+        3.586,
+        7.102
+      ],
+      [
+        7.202,
+        8.254
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.4711333333333332,
+      "pause_after": 2.942266666666666,
+      "scale": 1.1,
+      "new_duration": 9.598600000000001
+    }
+  },
+  {
+    "phrase_id": 18,
+    "start": 221.538,
+    "end": 230.11,
+    "duration": 8.572000000000003,
+    "vad_ids": [
+      40,
+      41,
+      42
+    ],
+    "asr_text": "В Elang может принимать на вход все три вида модальностей, то есть это speech, это текст и image или видео.",
+    "text_en": "In Elang, you can take all three modes into the entrance, which means it's speech, it's text and image or video.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_018.wav",
+    "tts_duration": 6.539333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.846
+      ],
+      [
+        3.074,
+        6.014
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.45957777777777853,
+      "pause_after": 0.9191555555555571,
+      "scale": 1.1,
+      "new_duration": 7.193266666666667
+    }
+  },
+  {
+    "phrase_id": 19,
+    "start": 230.402,
+    "end": 231.006,
+    "duration": 0.6040000000000134,
+    "vad_ids": [
+      43
+    ],
+    "asr_text": "Вот.",
+    "text_en": "Here.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_019.wav",
+    "tts_duration": 2.0806666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.574
+      ],
+      [
+        1.122,
+        1.566
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 1.2111555555555302,
+      "delta_after": 0.07635959595960773,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.8915151515151514
+    }
+  },
+  {
+    "phrase_id": 20,
+    "start": 232.098,
+    "end": 245.502,
+    "duration": 13.403999999999996,
+    "vad_ids": [
+      44
+    ],
+    "asr_text": "Поэтому это является актуальным топиком и хотелось его добавить. И вы как раз узнаете, что такое speech-o-language и также audio-language на 11 неделе.",
+    "text_en": "That's why it's a current top, and I wanted to add it, and you're just going to find out what it is like to make-o-language and also audio-language at 11 weeks.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_020.wav",
+    "tts_duration": 10.720666666666666,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.006
+      ],
+      [
+        3.65,
+        10.27
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5370888888888873,
+      "pause_after": 1.0741777777777748,
+      "scale": 1.1,
+      "new_duration": 11.792733333333334
+    }
+  },
+  {
+    "phrase_id": 21,
+    "start": 246.498,
+    "end": 256.03,
+    "duration": 9.531999999999982,
+    "vad_ids": [
+      45,
+      46
+    ],
+    "asr_text": "Вот. Двенадцатая неделя будет посвящена лорисорсным языкам и языкам не английским, так как мы с вами являемся носителями",
+    "text_en": "The twelfth week will be dedicated to the lorisors and non-English languages, as you and I are the hosts.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_021.wav",
+    "tts_duration": 7.5633333333333335,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.718
+      ],
+      [
+        2.818,
+        4.606
+      ],
+      [
+        5.026,
+        6.11
+      ],
+      [
+        6.21,
+        7.102
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.40411111111110465,
+      "pause_after": 0.8082222222222093,
+      "scale": 1.1,
+      "new_duration": 8.319666666666668
+    }
+  },
+  {
+    "phrase_id": 22,
+    "start": 256.258,
+    "end": 259.326,
+    "duration": 3.0680000000000405,
+    "vad_ids": [
+      47,
+      48
+    ],
+    "asr_text": "Вместе с тем, что мы можем использовать и англоязычные",
+    "text_en": "At the same time, we can also use English",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_022.wav",
+    "tts_duration": 4.31,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.246
+      ],
+      [
+        1.538,
+        3.806
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.8501818181817771,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 3.9181818181818175
+    }
+  },
+  {
+    "phrase_id": 23,
+    "start": 260.354,
+    "end": 271.038,
+    "duration": 10.684000000000026,
+    "vad_ids": [
+      49,
+      50
+    ],
+    "asr_text": "Есть такая тема, что большинство моделей, которые существуют, они обучались в основном на корпусе, на большом корпусе английского языка и всегда",
+    "text_en": "There's such a thing that most of the models that exist, they've mostly been taught in the building, in the large corps of English and always.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_023.wav",
+    "tts_duration": 9.003333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.014
+      ],
+      [
+        2.402,
+        4.286
+      ],
+      [
+        4.61,
+        8.446
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.26011111111111934,
+      "pause_after": 0.5202222222222386,
+      "scale": 1.1,
+      "new_duration": 9.903666666666668
+    }
+  },
+  {
+    "phrase_id": 24,
+    "start": 271.234,
+    "end": 281.086,
+    "duration": 9.852000000000032,
+    "vad_ids": [
+      51,
+      52,
+      53
+    ],
+    "asr_text": "Очень интересно понять, как же обучать или же применять эти модели для тех языков, которые нам необходимы и актуальны.",
+    "text_en": "It is very interesting to see how these models can be taught or applied to the languages we need and are relevant.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_024.wav",
+    "tts_duration": 7.467333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        4.99
+      ],
+      [
+        5.25,
+        6.238
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5459777777777882,
+      "pause_after": 1.0919555555555767,
+      "scale": 1.1,
+      "new_duration": 8.214066666666668
+    }
+  },
+  {
+    "phrase_id": 25,
+    "start": 282.21,
+    "end": 292.062,
+    "duration": 9.852000000000032,
+    "vad_ids": [
+      54,
+      55
+    ],
+    "asr_text": "Которые не являются английским языком. Вот, собственно, поэтому 12 неделя посвящена этой теме. И, конечно же, вишенка на торте.",
+    "text_en": "Which is not English, which is why 12 weeks is dedicated to this topic and, of course, cherry on a cake.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_025.wav",
+    "tts_duration": 7.424666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.118
+      ],
+      [
+        1.282,
+        4.19
+      ],
+      [
+        4.354,
+        5.182
+      ],
+      [
+        5.282,
+        6.334
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5616222222222328,
+      "pause_after": 1.1232444444444654,
+      "scale": 1.1,
+      "new_duration": 8.167133333333334
+    }
+  },
+  {
+    "phrase_id": 26,
+    "start": 292.482,
+    "end": 296.35,
+    "duration": 3.867999999999995,
+    "vad_ids": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "asr_text": "Как же не обойти",
+    "text_en": "There's no way around.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_026.wav",
+    "tts_duration": 1.8993333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.406
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5929111111111095,
+      "pause_after": 1.1858222222222188,
+      "scale": 1.1,
+      "new_duration": 2.0892666666666666
+    }
+  },
+  {
+    "phrase_id": 27,
+    "start": 297.154,
+    "end": 307.998,
+    "duration": 10.843999999999994,
+    "vad_ids": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "asr_text": "Домен аудио, так как на речь у нас всё не заканчивается, у нас также есть просто огромная, отдельная, можно сказать, область аудио.",
+    "text_en": "The domain of audio, because we don't run out of speech, we also have a huge, separate, you can say, area of audio.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_027.wav",
+    "tts_duration": 8.395333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.214
+      ],
+      [
+        1.346,
+        2.974
+      ],
+      [
+        3.138,
+        5.214
+      ],
+      [
+        5.346,
+        6.174
+      ],
+      [
+        6.562,
+        7.87
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5363777777777757,
+      "pause_after": 1.0727555555555512,
+      "scale": 1.1,
+      "new_duration": 9.234866666666667
+    }
+  },
+  {
+    "phrase_id": 28,
+    "start": 308.514,
+    "end": 312.926,
+    "duration": 4.411999999999978,
+    "vad_ids": [
+      64,
+      65
+    ],
+    "asr_text": "Включается и музыка, и невербальные какие-то звуки, и звуки...",
+    "text_en": "The music and the nonverbal sounds and the sounds...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_028.wav",
+    "tts_duration": 3.478,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.006
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.19539999999999239,
+      "pause_after": 0.3907999999999848,
+      "scale": 1.1,
+      "new_duration": 3.8258000000000005
+    }
+  },
+  {
+    "phrase_id": 29,
+    "start": 314.306,
+    "end": 324.254,
+    "duration": 9.948000000000036,
+    "vad_ids": [
+      66,
+      67,
+      68
+    ],
+    "asr_text": "Различных битов, животных и так далее. Всё, что не связано с речью человеческой.",
+    "text_en": "Different bits, animals, etc., anything that has nothing to do with human speech.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_029.wav",
+    "tts_duration": 6.539333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.958
+      ],
+      [
+        1.122,
+        2.494
+      ],
+      [
+        3.362,
+        6.046
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9182444444444563,
+      "pause_after": 1.8364888888889124,
+      "scale": 1.1,
+      "new_duration": 7.193266666666667
+    }
+  },
+  {
+    "phrase_id": 30,
+    "start": 324.642,
+    "end": 332.798,
+    "duration": 8.156000000000006,
+    "vad_ids": [
+      69,
+      70,
+      71
+    ],
+    "asr_text": "Последние две недели нашего курса будут посвящены задачам в области аудиодомена,",
+    "text_en": "The last two weeks of our course will focus on the challenges of the audio domain,",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_030.wav",
+    "tts_duration": 6.166,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        4.382
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.45780000000000154,
+      "pause_after": 0.9156000000000031,
+      "scale": 1.1,
+      "new_duration": 6.782600000000001
+    }
+  },
+  {
+    "phrase_id": 31,
+    "start": 333.922,
+    "end": 342.462,
+    "duration": 8.539999999999964,
+    "vad_ids": [
+      72,
+      73
+    ],
+    "asr_text": "И вы узнаете, чем отличается вообще, не знаю, репрезентация в аудио от speech,",
+    "text_en": "And you'll find out what's different, I don't know, the presentation in the audio from the show,",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_031.wav",
+    "tts_duration": 6.262,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.566
+      ],
+      [
+        1.954,
+        5.758
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5505999999999878,
+      "pause_after": 1.1011999999999755,
+      "scale": 1.1,
+      "new_duration": 6.8882
+    }
+  },
+  {
+    "phrase_id": 32,
+    "start": 342.914,
+    "end": 351.39,
+    "duration": 8.475999999999999,
+    "vad_ids": [
+      74,
+      75
+    ],
+    "asr_text": "Отличаются ли в целом задачи, которые ставятся перед speech processing и audio processing, и какие там есть нюансы.",
+    "text_en": "In general, are there any differences in the tasks and nuances that are assigned to speech processing and audio processing?",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_032.wav",
+    "tts_duration": 7.744666666666666,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        4.926
+      ],
+      [
+        5.826,
+        7.198
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0944305758801756,
+      "new_duration": 8.475999999999999
+    }
+  },
+  {
+    "phrase_id": 33,
+    "start": 351.586,
+    "end": 358.494,
+    "duration": 6.9080000000000155,
+    "vad_ids": [
+      76,
+      77
+    ],
+    "asr_text": "И после того, как мы пройдём все лекции, все семинары, сдадим все домашки, у нас начинается неделя проектов.",
+    "text_en": "And after we have all the lectures, all the seminars, all the homework, we start a week of projects.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_033.wav",
+    "tts_duration": 7.286,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.726
+      ],
+      [
+        2.082,
+        3.294
+      ],
+      [
+        3.714,
+        4.734
+      ],
+      [
+        5.026,
+        6.814
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0,
+      "delta_after": 0,
+      "scale": 0.9481196815811166,
+      "new_duration": 6.9080000000000155
+    }
+  },
+  {
+    "phrase_id": 34,
+    "start": 359.33,
+    "end": 361.47,
+    "duration": 2.140000000000043,
+    "vad_ids": [
+      78
+    ],
+    "asr_text": "То есть вам нужно будет выбрать...",
+    "text_en": "So you'll have to choose...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_034.wav",
+    "tts_duration": 2.0806666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.598
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.4802973661668753e-16,
+      "pause_after": 2.960594732333751e-16,
+      "scale": 1.028516501121456,
+      "new_duration": 2.1400000000000428
+    }
+  },
+  {
+    "phrase_id": 35,
+    "start": 362.434,
+    "end": 372.83,
+    "duration": 10.395999999999958,
+    "vad_ids": [
+      79,
+      80,
+      81
+    ],
+    "asr_text": "В этом проекте целый месяц у вас будет возможность заниматься либо самим, либо под руководством менторов.",
+    "text_en": "In this project, you will have the opportunity to work for a month, either on your own or under the guidance of the mentors.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_035.wav",
+    "tts_duration": 8.118,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.582
+      ],
+      [
+        4.354,
+        5.502
+      ],
+      [
+        5.762,
+        7.678
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.48873333333331875,
+      "pause_after": 0.9774666666666374,
+      "scale": 1.1,
+      "new_duration": 8.929800000000002
+    }
+  },
+  {
+    "phrase_id": 36,
+    "start": 372.994,
+    "end": 375.646,
+    "duration": 2.651999999999987,
+    "vad_ids": [
+      82,
+      83
+    ],
+    "asr_text": "Кураторов этих проектов",
+    "text_en": "Project managers",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_036.wav",
+    "tts_duration": 1.7073333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.246
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.25797777777777336,
+      "pause_after": 0.5159555555555466,
+      "scale": 1.1,
+      "new_duration": 1.8780666666666668
+    }
+  },
+  {
+    "phrase_id": 37,
+    "start": 377.09,
+    "end": 386.622,
+    "duration": 9.532000000000039,
+    "vad_ids": [
+      84,
+      85
+    ],
+    "asr_text": "И займём как-то покопаться в задачах, которые вам покажутся интересными. Они так или иначе могут быть связаны с темами, которые вы пройдёте.",
+    "text_en": "And we're gonna do some digging into things that you think are interesting, and they might somehow have something to do with the things you're gonna go through.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_037.wav",
+    "tts_duration": 7.744666666666666,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.07
+      ],
+      [
+        3.458,
+        7.23
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.3376222222222349,
+      "pause_after": 0.6752444444444698,
+      "scale": 1.1,
+      "new_duration": 8.519133333333334
+    }
+  },
+  {
+    "phrase_id": 38,
+    "start": 387.074,
+    "end": 399.166,
+    "duration": 12.091999999999985,
+    "vad_ids": [
+      86,
+      87
+    ],
+    "asr_text": "Возможно и нет, ближе к концу декабря мы выставим список всех проектов, которые мы вам представим, и вы сможете выбрать",
+    "text_en": "Maybe not, by the end of December, we'll have a list of all the projects that we're going to present to you, and you can choose.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_038.wav",
+    "tts_duration": 8.352666666666666,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.766
+      ],
+      [
+        1.73,
+        3.102
+      ],
+      [
+        3.49,
+        6.622
+      ],
+      [
+        6.818,
+        7.87
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.968022222222217,
+      "pause_after": 1.936044444444434,
+      "scale": 1.1,
+      "new_duration": 9.187933333333334
+    }
+  },
+  {
+    "phrase_id": 39,
+    "start": 399.394,
+    "end": 409.278,
+    "duration": 9.884000000000015,
+    "vad_ids": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "asr_text": "Используйте для себя то, что вам будет интересно изучать. Давайте теперь пробнее разберёмся, кто что и почему будет читать.",
+    "text_en": "Use what you're interested in studying, let's try to figure out who's going to read what and why.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_039.wav",
+    "tts_duration": 6.027333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.982
+      ],
+      [
+        2.594,
+        5.534
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.0846444444444492,
+      "pause_after": 2.1692888888888984,
+      "scale": 1.1,
+      "new_duration": 6.630066666666667
+    }
+  },
+  {
+    "phrase_id": 40,
+    "start": 409.762,
+    "end": 413.662,
+    "duration": 3.8999999999999773,
+    "vad_ids": [
+      93,
+      94
+    ],
+    "asr_text": "Вот, я снова передвину кругляшочек.",
+    "text_en": "Here, I'll move the round again.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_040.wav",
+    "tts_duration": 3.062,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.574
+      ],
+      [
+        1.186,
+        2.558
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.177266666666659,
+      "pause_after": 0.35453333333331793,
+      "scale": 1.1,
+      "new_duration": 3.3682000000000003
+    }
+  },
+  {
+    "phrase_id": 41,
+    "start": 414.69,
+    "end": 436.03,
+    "duration": 21.339999999999975,
+    "vad_ids": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "asr_text": "Итак, как я уже сказала, у нас первые четыре недели будут посвящены аудиорепрезентациям, и первые две лекции как раз буду рассказывать я. Ещё раз, меня зовут Осель, я работаю мэри-инженером в Huawei, я оканчиваю скул тех, также являюсь тоже действующим ресёртером, привлекаюсь.",
+    "text_en": "So, as I said, we're gonna have the first four weeks of audio presentations, and the first two lectures I'm gonna be talking about.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_041.wav",
+    "tts_duration": 7.094,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.054
+      ],
+      [
+        1.282,
+        3.902
+      ],
+      [
+        4.226,
+        6.59
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 4.512199999999992,
+      "pause_after": 9.024399999999982,
+      "scale": 1.1,
+      "new_duration": 7.803400000000001
+    }
+  },
+  {
+    "phrase_id": 42,
+    "start": 436.354,
+    "end": 441.342,
+    "duration": 4.9879999999999995,
+    "vad_ids": [
+      99,
+      100,
+      101
+    ],
+    "asr_text": "Можете в целом зачекать мой Google Scholar и посмотреть, что там происходит.",
+    "text_en": "You can generally comb my Google Scholar and see what's going on there.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_042.wav",
+    "tts_duration": 5.707333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.646
+      ],
+      [
+        4.674,
+        5.182
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.20048484848484893,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 5.1884848484848485
+    }
+  },
+  {
+    "phrase_id": 43,
+    "start": 442.914,
+    "end": 445.47,
+    "duration": 2.55600000000004,
+    "vad_ids": [
+      102,
+      103
+    ],
+    "asr_text": "Происходит что-то странное.",
+    "text_en": "Something weird is going on.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_043.wav",
+    "tts_duration": 1.9953333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.47
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.12037777777779102,
+      "pause_after": 0.24075555555558203,
+      "scale": 1.1,
+      "new_duration": 2.194866666666667
+    }
+  },
+  {
+    "phrase_id": 44,
+    "start": 446.562,
+    "end": 456.958,
+    "duration": 10.396000000000015,
+    "vad_ids": [
+      104
+    ],
+    "asr_text": "Я буду вам рассказывать, что такое аудио, что такое звук, как он представляется в компьютере, какую-то базовую форму представления расскажу.",
+    "text_en": "I'll tell you what audio is, what sound is, as it appears in the computer, some basic form of representation will tell.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_044.wav",
+    "tts_duration": 7.424666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.438
+      ],
+      [
+        1.794,
+        2.686
+      ],
+      [
+        2.882,
+        4.35
+      ],
+      [
+        4.706,
+        6.942
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7429555555555604,
+      "pause_after": 1.4859111111111205,
+      "scale": 1.1,
+      "new_duration": 8.167133333333334
+    }
+  },
+  {
+    "phrase_id": 45,
+    "start": 457.314,
+    "end": 470.366,
+    "duration": 13.051999999999964,
+    "vad_ids": [
+      105,
+      106
+    ],
+    "asr_text": "Будет вторая часть, то есть вторая лекция про спектрограммы, почему вообще у нас есть второй вид репрезентации и почему он чаще всего используется или не используется.",
+    "text_en": "There will be a second part, i.e. a second lecture on spectrograms, why we have a second type of presentation at all, and why it is most commonly used or not used.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_045.wav",
+    "tts_duration": 11.51,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.214
+      ],
+      [
+        1.666,
+        2.398
+      ],
+      [
+        2.626,
+        4.734
+      ],
+      [
+        5.058,
+        7.71
+      ],
+      [
+        8.194,
+        11.038
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.1303333333333209,
+      "pause_after": 0.26066666666664184,
+      "scale": 1.1,
+      "new_duration": 12.661000000000001
+    }
+  },
+  {
+    "phrase_id": 46,
+    "start": 471.746,
+    "end": 478.558,
+    "duration": 6.812000000000012,
+    "vad_ids": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "asr_text": "Далее у нас будет",
+    "text_en": "Then we'll have",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_046.wav",
+    "tts_duration": 1.942,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.51
+      ],
+      [
+        0.706,
+        1.438
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.5586000000000038,
+      "pause_after": 3.1172000000000075,
+      "scale": 1.1,
+      "new_duration": 2.1362
+    }
+  },
+  {
+    "phrase_id": 47,
+    "start": 479.49,
+    "end": 491.358,
+    "duration": 11.867999999999995,
+    "vad_ids": [
+      111,
+      112,
+      113
+    ],
+    "asr_text": "Лекция по SSL. SSL-модели — это self-supervised learning модели, которые интересны нам в виде репрезентации в качестве непрерывных эмбеддингов.",
+    "text_en": "A lecture on SSL. SSL is a self-supervised model that is interesting to us as a presentation as a continuous embedding.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_047.wav",
+    "tts_duration": 11.830666666666668,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.822
+      ],
+      [
+        2.626,
+        3.294
+      ],
+      [
+        3.874,
+        4.51
+      ],
+      [
+        4.706,
+        6.366
+      ],
+      [
+        7.458,
+        11.326
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0031556407077646,
+      "new_duration": 11.867999999999995
+    }
+  },
+  {
+    "phrase_id": 48,
+    "start": 491.49,
+    "end": 495.742,
+    "duration": 4.2520000000000095,
+    "vad_ids": [
+      114,
+      115,
+      116
+    ],
+    "asr_text": "Довольно часто это тоже...",
+    "text_en": "Quite often, too...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_048.wav",
+    "tts_duration": 1.7073333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.246
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7913111111111143,
+      "pause_after": 1.5826222222222284,
+      "scale": 1.1,
+      "new_duration": 1.8780666666666668
+    }
+  },
+  {
+    "phrase_id": 49,
+    "start": 497.186,
+    "end": 499.39,
+    "duration": 2.2040000000000077,
+    "vad_ids": [
+      117
+    ],
+    "asr_text": "Примитивные являются",
+    "text_en": "Primitive are",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_049.wav",
+    "tts_duration": 1.5686666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.086
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.15948888888889146,
+      "pause_after": 0.3189777777777829,
+      "scale": 1.1,
+      "new_duration": 1.7255333333333334
+    }
+  },
+  {
+    "phrase_id": 50,
+    "start": 500.258,
+    "end": 510.75,
+    "duration": 10.492000000000019,
+    "vad_ids": [
+      118,
+      119
+    ],
+    "asr_text": "Одними из презентаций аудио в качестве input'а в модели. И как раз-таки про всё это вам будет рассказывать Иван.",
+    "text_en": "One of the presentations of audio as an input'a in the model, and that's exactly what Ivan's gonna tell you about.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_050.wav",
+    "tts_duration": 6.262,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.654
+      ],
+      [
+        3.106,
+        5.758
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.2012666666666727,
+      "pause_after": 2.402533333333346,
+      "scale": 1.1,
+      "new_duration": 6.8882
+    }
+  },
+  {
+    "phrase_id": 51,
+    "start": 510.882,
+    "end": 519.87,
+    "duration": 8.988,
+    "vad_ids": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "asr_text": "Я работала ML-инженером в аудиокоманде в звуке и также оканчивала сплотех и вышку.",
+    "text_en": "I worked as an ML engineer on an audio team in sound, and I also ended up with a whole tower.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_051.wav",
+    "tts_duration": 6.443333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.166
+      ],
+      [
+        3.81,
+        5.918
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6334444444444441,
+      "pause_after": 1.266888888888888,
+      "scale": 1.1,
+      "new_duration": 7.087666666666667
+    }
+  },
+  {
+    "phrase_id": 52,
+    "start": 520.93,
+    "end": 531.198,
+    "duration": 10.268000000000029,
+    "vad_ids": [
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "asr_text": "Далее, следующая лекция будет посвящена кодекам, так как с приходом мультимодальных LLM'ок",
+    "text_en": "Next, the next lecture will be about codecs, because with the arrival of multi-model LLM's",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_052.wav",
+    "tts_duration": 6.955333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        4.51
+      ],
+      [
+        5.57,
+        6.494
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.8723777777777876,
+      "pause_after": 1.744755555555575,
+      "scale": 1.1,
+      "new_duration": 7.6508666666666665
+    }
+  },
+  {
+    "phrase_id": 53,
+    "start": 531.362,
+    "end": 540.766,
+    "duration": 9.403999999999996,
+    "vad_ids": [
+      129,
+      130,
+      131
+    ],
+    "asr_text": "Наиболее популярная репрезентация или, скажем так, input входа в лэнки, так как они",
+    "text_en": "Most popular presentation or, let's say, input entry to the lanca because they're",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_053.wav",
+    "tts_duration": 5.8886666666666665,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.726
+      ],
+      [
+        1.954,
+        2.43
+      ],
+      [
+        2.562,
+        5.374
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9754888888888876,
+      "pause_after": 1.950977777777775,
+      "scale": 1.1,
+      "new_duration": 6.477533333333334
+    }
+  },
+  {
+    "phrase_id": 54,
+    "start": 540.866,
+    "end": 548.094,
+    "duration": 7.2280000000000655,
+    "vad_ids": [
+      132,
+      133
+    ],
+    "asr_text": "Генерируют токены, являются дискретные токены, которые как раз таки вытаскиваются",
+    "text_en": "Generate currents, are discrete currents that are being pulled out.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_054.wav",
+    "tts_duration": 4.779333333333334,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.358
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6569111111111328,
+      "pause_after": 1.3138222222222655,
+      "scale": 1.1,
+      "new_duration": 5.257266666666667
+    }
+  },
+  {
+    "phrase_id": 55,
+    "start": 548.994,
+    "end": 557.63,
+    "duration": 8.635999999999967,
+    "vad_ids": [
+      134,
+      135,
+      136
+    ],
+    "asr_text": "При помощи кодеков. Вот. И про кодеки нам расскажет Захар. Давайте я всё-таки кругляшку куда-нибудь сюда поставлю.",
+    "text_en": "And Zahar's gonna tell us about the codecs, so I'm gonna put a roundabout somewhere.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_055.wav",
+    "tts_duration": 5.8886666666666665,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.238
+      ],
+      [
+        2.498,
+        3.006
+      ],
+      [
+        3.618,
+        5.374
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7194888888888779,
+      "pause_after": 1.438977777777756,
+      "scale": 1.1,
+      "new_duration": 6.477533333333334
+    }
+  },
+  {
+    "phrase_id": 56,
+    "start": 557.826,
+    "end": 570.846,
+    "duration": 13.019999999999982,
+    "vad_ids": [
+      137,
+      138,
+      139
+    ],
+    "asr_text": "Про кодеки вам будет рассказывать Захар. Захар является инженером в Яндекс.Музыке, также автором ТГ-канала Warflow.A.Science, где он довольно часто",
+    "text_en": "Zahar is an engineer in Yandex. Music, also the author of the TV channel Warflow.A.Science, where he is quite often.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_056.wav",
+    "tts_duration": 20.087333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.694
+      ],
+      [
+        1.794,
+        2.878
+      ],
+      [
+        3.554,
+        5.854
+      ],
+      [
+        6.37,
+        7.038
+      ],
+      [
+        7.266,
+        9.982
+      ],
+      [
+        11.042,
+        12.606
+      ],
+      [
+        15.714,
+        18.494
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 1.6349777777777823,
+      "delta_after": 1.1394888888888368,
+      "scale": 0.9090909090909091,
+      "new_duration": 18.26121212121212
+    }
+  },
+  {
+    "phrase_id": 57,
+    "start": 571.266,
+    "end": 579.774,
+    "duration": 8.508000000000038,
+    "vad_ids": [
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "asr_text": "Постят отличную информацию и какие-то инсайты про звук и речь.",
+    "text_en": "They're gonna post some great information and some intel about sound and speech.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_057.wav",
+    "tts_duration": 5.152666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.918
+      ],
+      [
+        2.498,
+        4.67
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9466888888889015,
+      "pause_after": 1.8933777777778027,
+      "scale": 1.1,
+      "new_duration": 5.667933333333334
+    }
+  },
+  {
+    "phrase_id": 58,
+    "start": 580.386,
+    "end": 584.414,
+    "duration": 4.02800000000002,
+    "vad_ids": [
+      145,
+      146,
+      147
+    ],
+    "asr_text": "Зачекайте по каналу. Возможно, может быть, вы даже",
+    "text_en": "Check the canal, maybe even you.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_058.wav",
+    "tts_duration": 2.5926666666666667,
+    "tts_speech_intervals": [
+      [
+        0.034,
+        2.11
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.39202222222222877,
+      "pause_after": 0.7840444444444576,
+      "scale": 1.1,
+      "new_duration": 2.8519333333333337
+    }
+  },
+  {
+    "phrase_id": 59,
+    "start": 585.218,
+    "end": 595.294,
+    "duration": 10.076000000000022,
+    "vad_ids": [
+      148,
+      149,
+      150
+    ],
+    "asr_text": "Уже читали его или слышали о нём. Следующий большой блок — это блок ASR. Как я уже сказала, это задача speech to text.",
+    "text_en": "We've read it or heard about it. The next big block is the ASR block.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_059.wav",
+    "tts_duration": 7.190666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.694
+      ],
+      [
+        2.146,
+        3.39
+      ],
+      [
+        3.682,
+        5.118
+      ],
+      [
+        6.018,
+        6.686
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7220888888888958,
+      "pause_after": 1.4441777777777918,
+      "scale": 1.1,
+      "new_duration": 7.909733333333334
+    }
+  },
+  {
+    "phrase_id": 60,
+    "start": 595.778,
+    "end": 610.366,
+    "duration": 14.587999999999965,
+    "vad_ids": [
+      151,
+      152
+    ],
+    "asr_text": "В этом видео мы расскажем о Екоре, который является ML-инженером в Huawei в команде Speech. Также он является преподавателем в Центральном университете и помогает и готовит школьников для",
+    "text_en": "In this video, we're going to talk about Ekor, who's a ML engineer at Huawei on the Speech team, and he's also a teacher at the Central University and helps and trains students for",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_060.wav",
+    "tts_duration": 9.75,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.078
+      ],
+      [
+        2.37,
+        9.278
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.2876666666666547,
+      "pause_after": 2.575333333333309,
+      "scale": 1.1,
+      "new_duration": 10.725000000000001
+    }
+  },
+  {
+    "phrase_id": 61,
+    "start": 610.498,
+    "end": 613.31,
+    "duration": 2.811999999999898,
+    "vad_ids": [
+      153
+    ],
+    "asr_text": "Олимпиады AYOYI.",
+    "text_en": "The AYYI Olympics.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_061.wav",
+    "tts_duration": 2.966,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.054
+      ],
+      [
+        1.41,
+        2.462
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0,
+      "delta_after": 0,
+      "scale": 0.9480782198246454,
+      "new_duration": 2.811999999999898
+    }
+  },
+  {
+    "phrase_id": 62,
+    "start": 614.882,
+    "end": 623.678,
+    "duration": 8.79600000000005,
+    "vad_ids": [
+      154,
+      155,
+      156
+    ],
+    "asr_text": "Которая начала проводиться с недавнего времени. Точесровывается как International Olympiad of Artificial Intelligence.",
+    "text_en": "It's been going on since recently, and it's going on as the International Olympic of Artificial Intelligence.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_062.wav",
+    "tts_duration": 6.262,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.438
+      ],
+      [
+        2.114,
+        5.822
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6359333333333496,
+      "pause_after": 1.2718666666666993,
+      "scale": 1.1,
+      "new_duration": 6.8882
+    }
+  },
+  {
+    "phrase_id": 63,
+    "start": 624.226,
+    "end": 633.15,
+    "duration": 8.923999999999978,
+    "vad_ids": [
+      157,
+      158,
+      159
+    ],
+    "asr_text": "Он вам как раз расскажет всю поднокопанную того, как работает ASR, какие там LUS используются, какие модели.",
+    "text_en": "He's just gonna tell you all about how ASR works, what LUS uses, what models.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_063.wav",
+    "tts_duration": 5.942,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.846
+      ],
+      [
+        3.17,
+        4.414
+      ],
+      [
+        4.578,
+        5.47
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7959333333333257,
+      "pause_after": 1.5918666666666517,
+      "scale": 1.1,
+      "new_duration": 6.536200000000001
+    }
+  },
+  {
+    "phrase_id": 64,
+    "start": 633.282,
+    "end": 641.918,
+    "duration": 8.635999999999967,
+    "vad_ids": [
+      160,
+      161,
+      162
+    ],
+    "asr_text": "И что вообще там происходит. Следующий топик, который у нас будет, это TTS, text-to-speech модели.",
+    "text_en": "And what's going on in there, the next top we're going to have is TTS, text-to-speech models.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_064.wav",
+    "tts_duration": 7.051333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.038
+      ],
+      [
+        3.362,
+        5.886
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.29317777777776666,
+      "pause_after": 0.5863555555555333,
+      "scale": 1.1,
+      "new_duration": 7.756466666666667
+    }
+  },
+  {
+    "phrase_id": 65,
+    "start": 642.082,
+    "end": 650.27,
+    "duration": 8.187999999999988,
+    "vad_ids": [
+      163,
+      164
+    ],
+    "asr_text": "Игнорируют междометия, которые будут рассказывать, ты снима, ты снима, просто потрясающий ресерчер, тоже работает в Huawei.",
+    "text_en": "Ignore the inter-home stories that you're gonna tell, you're filming, you're filming, you're a fantastic receptionist, and you work at Huaway.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_065.wav",
+    "tts_duration": 7.520666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.302
+      ],
+      [
+        2.562,
+        7.006
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0887332683272744,
+      "new_duration": 8.187999999999988
+    }
+  },
+  {
+    "phrase_id": 66,
+    "start": 650.402,
+    "end": 662.142,
+    "duration": 11.740000000000009,
+    "vad_ids": [
+      165,
+      166
+    ],
+    "asr_text": "Эмель Инженером, вот заканчивала МГУ и Вышку и является соавтором статьи GRA-TTS. GRA-TTS — это модель TTS, основанная на диффузиях.",
+    "text_en": "Emel Engineer, now ending with the MGU and the Wiszka and co-authoring an article by GRA-TTS. GRA-TTS is a model of TTS based on diffusion.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_066.wav",
+    "tts_duration": 12.481333333333334,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        4.67
+      ],
+      [
+        6.05,
+        7.838
+      ],
+      [
+        8.322,
+        11.966
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0,
+      "delta_after": 0,
+      "scale": 0.9406046362568108,
+      "new_duration": 11.740000000000007
+    }
+  },
+  {
+    "phrase_id": 67,
+    "start": 662.274,
+    "end": 675.102,
+    "duration": 12.827999999999975,
+    "vad_ids": [
+      167,
+      168
+    ],
+    "asr_text": "В этом году она вышла в комьюнити speech.",
+    "text_en": "This year, she went out to the comunity speech.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_067.wav",
+    "tts_duration": 4.406,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.75
+      ],
+      [
+        3.266,
+        3.902
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.660466666666658,
+      "pause_after": 5.320933333333317,
+      "scale": 1.1,
+      "new_duration": 4.8466000000000005
+    }
+  },
+  {
+    "phrase_id": 68,
+    "start": 677.09,
+    "end": 682.974,
+    "duration": 5.8840000000000146,
+    "vad_ids": [
+      169
+    ],
+    "asr_text": "Игнорируй междометия и паузы вроде BASELINE или BASELINE для многих других решений в течение долгого времени.",
+    "text_en": "Ignore interdomen and pauses like BASELINE or BASELINE for many other solutions for a long time.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_068.wav",
+    "tts_duration": 7.19,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.622
+      ],
+      [
+        3.074,
+        3.998
+      ],
+      [
+        4.386,
+        6.686
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.6523636363636216,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 6.536363636363636
+    }
+  },
+  {
+    "phrase_id": 69,
+    "start": 684.258,
+    "end": 689.534,
+    "duration": 5.275999999999954,
+    "vad_ids": [
+      170,
+      171
+    ],
+    "asr_text": "Вот. И просто нереально нам повезло, что она будет читать нам лекции по-титески.",
+    "text_en": "And we're just unreal lucky she's gonna lecture us in Chinese.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_069.wav",
+    "tts_duration": 5.056666666666667,
+    "tts_speech_intervals": [
+      [
+        0.098,
+        2.974
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0433750823994634,
+      "new_duration": 5.275999999999954
+    }
+  },
+  {
+    "phrase_id": 70,
+    "start": 690.626,
+    "end": 699.294,
+    "duration": 8.668000000000006,
+    "vad_ids": [
+      172,
+      173,
+      174
+    ],
+    "asr_text": "Можете пройти по ссылке, почитать статью, если вам вдруг будет интересно. И пройти, конечно же, на лекцию к досниме.",
+    "text_en": "You can go through the link, read the article, if you're interested, and, of course, take the lecture to the shot.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_070.wav",
+    "tts_duration": 6.6353333333333335,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.374
+      ],
+      [
+        1.794,
+        3.454
+      ],
+      [
+        4.002,
+        6.078
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.45637777777777977,
+      "pause_after": 0.9127555555555595,
+      "scale": 1.1,
+      "new_duration": 7.298866666666667
+    }
+  },
+  {
+    "phrase_id": 71,
+    "start": 699.458,
+    "end": 711.87,
+    "duration": 12.412000000000035,
+    "vad_ids": [
+      175
+    ],
+    "asr_text": "Следующая часть — speech task overview. Её будет открывать в первой лекции по overview speech tasks Пётр. Пётр является магистрантом",
+    "text_en": "The next part will be a page of the first lecture on Overview speech tasks Peter.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_071.wav",
+    "tts_duration": 5.8886666666666665,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        4.062
+      ],
+      [
+        4.802,
+        5.374
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.978155555555567,
+      "pause_after": 3.956311111111134,
+      "scale": 1.1,
+      "new_duration": 6.477533333333334
+    }
+  },
+  {
+    "phrase_id": 72,
+    "start": 712.13,
+    "end": 720.446,
+    "duration": 8.316000000000031,
+    "vad_ids": [
+      176,
+      177,
+      178,
+      179
+    ],
+    "asr_text": "Университеты ЕПФЛ — это тоже известный топ-университет в ML-домене.",
+    "text_en": "EPFL universities are also a well-known top university in ML Domain.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_072.wav",
+    "tts_duration": 4.918,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.07
+      ],
+      [
+        3.426,
+        4.414
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9687333333333434,
+      "pause_after": 1.9374666666666869,
+      "scale": 1.1,
+      "new_duration": 5.409800000000001
+    }
+  },
+  {
+    "phrase_id": 73,
+    "start": 720.994,
+    "end": 743.742,
+    "duration": 22.747999999999934,
+    "vad_ids": [
+      180
+    ],
+    "asr_text": "Что самое крутое, он является автором курса DLN Audio. Чуть позже я расскажу про все шикарнейшие курсы, которые посвящены речи и аудио, в качестве дополнительных материалов, которые вы можете посмотреть. Но сейчас хочу захилайтить, что он является одним из основных лекторов этого курса.",
+    "text_en": "What's cool is he's the author of the DLN Audio course, and I'm going to tell you later about all the great courses that are devoted to speech and audio as additional materials that you can see, but I'm gonna snatch that he's one of the main lecturers in this course.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_073.wav",
+    "tts_duration": 14.902,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        10.622
+      ],
+      [
+        11.042,
+        14.462
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.118599999999978,
+      "pause_after": 4.237199999999957,
+      "scale": 1.1,
+      "new_duration": 16.3922
+    }
+  },
+  {
+    "phrase_id": 74,
+    "start": 743.874,
+    "end": 754.366,
+    "duration": 10.491999999999962,
+    "vad_ids": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ],
+    "asr_text": "Этот курс я сама отсматривала и проходила. Ставлю ему лайк, очень классный.",
+    "text_en": "I've been watching this course myself and I've been doing it.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_074.wav",
+    "tts_duration": 4.779333333333334,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.526
+      ],
+      [
+        2.946,
+        4.286
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.7449111111110982,
+      "pause_after": 3.4898222222221964,
+      "scale": 1.1,
+      "new_duration": 5.257266666666667
+    }
+  },
+  {
+    "phrase_id": 75,
+    "start": 754.722,
+    "end": 765.406,
+    "duration": 10.683999999999969,
+    "vad_ids": [
+      187,
+      188
+    ],
+    "asr_text": "Следующую часть лекции по speech task overview вам будет рассказывать Дмитрий. Дмитрий является главой команды ASR в Сбери, также оканчивал ШАТ.",
+    "text_en": "Dmitri is the head of the ASR team in Sbury, who also finished the SAT.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_075.wav",
+    "tts_duration": 5.376666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.038
+      ],
+      [
+        3.362,
+        4.83
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.5898888888888782,
+      "pause_after": 3.1797777777777565,
+      "scale": 1.1,
+      "new_duration": 5.914333333333334
+    }
+  },
+  {
+    "phrase_id": 76,
+    "start": 765.986,
+    "end": 767.07,
+    "duration": 1.08400000000006,
+    "vad_ids": [
+      189
+    ],
+    "asr_text": "Вот.",
+    "text_en": "Here.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_076.wav",
+    "tts_duration": 2.134,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.574
+      ],
+      [
+        0.994,
+        1.63
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.8559999999999399,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.94
+    }
+  },
+  {
+    "phrase_id": 77,
+    "start": 767.938,
+    "end": 777.982,
+    "duration": 10.043999999999983,
+    "vad_ids": [
+      190,
+      191
+    ],
+    "asr_text": "Далее у нас идёт тема Speech-LMG. Её будет нам рассказывать Александр. Александр является Senior Research Engineer в Сберии в команде GigaChad.",
+    "text_en": "Next we have the topic \"Speech-LMG.\" Alexander will tell us about it. Alexander is Senior Research Engineer in Sberia on the GigaChad team.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_077.wav",
+    "tts_duration": 11.362,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.366
+      ],
+      [
+        2.818,
+        4.542
+      ],
+      [
+        5.762,
+        8.062
+      ],
+      [
+        8.45,
+        9.278
+      ],
+      [
+        9.602,
+        10.878
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.2850909090909255,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 10.329090909090908
+    }
+  },
+  {
+    "phrase_id": 78,
+    "start": 778.914,
+    "end": 787.838,
+    "duration": 8.923999999999978,
+    "vad_ids": [
+      192,
+      193,
+      194,
+      195
+    ],
+    "asr_text": "И также является соавтором аудиомодели Giga-M, что просто нереально круто, так как",
+    "text_en": "And also co-authored the giga-M audio model, which is just unreal cool, because",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_078.wav",
+    "tts_duration": 6.731333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.07
+      ],
+      [
+        3.618,
+        5.406
+      ],
+      [
+        5.73,
+        6.27
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.5065111111111035,
+      "pause_after": 1.0130222222222067,
+      "scale": 1.1,
+      "new_duration": 7.404466666666668
+    }
+  },
+  {
+    "phrase_id": 79,
+    "start": 788.418,
+    "end": 797.822,
+    "duration": 9.403999999999996,
+    "vad_ids": [
+      196,
+      197,
+      198,
+      199
+    ],
+    "asr_text": "Он напрямую работает с LN-ками и разрабатывает их. И будет здорово послушать.",
+    "text_en": "He works directly with LNs and develops them, and he's gonna be great at listening.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_079.wav",
+    "tts_duration": 5.195333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.622
+      ],
+      [
+        3.17,
+        4.702
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.2297111111111099,
+      "pause_after": 2.45942222222222,
+      "scale": 1.1,
+      "new_duration": 5.7148666666666665
+    }
+  },
+  {
+    "phrase_id": 80,
+    "start": 800.258,
+    "end": 802.302,
+    "duration": 2.0439999999999827,
+    "vad_ids": [
+      200
+    ],
+    "asr_text": "Говоря...",
+    "text_en": "Speaking of...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_080.wav",
+    "tts_duration": 3.062,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.022
+      ],
+      [
+        1.538,
+        2.558
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.7396363636363805,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 2.7836363636363632
+    }
+  },
+  {
+    "phrase_id": 81,
+    "start": 803.65,
+    "end": 810.366,
+    "duration": 6.716000000000008,
+    "vad_ids": [
+      201,
+      202
+    ],
+    "asr_text": "Актуальную информацию про speech-LN и также про audio-LN",
+    "text_en": "Current information on speech-LN and also on audio-LN",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_081.wav",
+    "tts_duration": 5.056666666666667,
+    "tts_speech_intervals": [
+      [
+        0.034,
+        1.15
+      ],
+      [
+        1.41,
+        2.43
+      ],
+      [
+        2.85,
+        4.574
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.38455555555555804,
+      "pause_after": 0.7691111111111162,
+      "scale": 1.1,
+      "new_duration": 5.562333333333334
+    }
+  },
+  {
+    "phrase_id": 82,
+    "start": 811.202,
+    "end": 812.638,
+    "duration": 1.4360000000000355,
+    "vad_ids": [
+      203,
+      204
+    ],
+    "asr_text": "На его лекции.",
+    "text_en": "At his lecture.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_082.wav",
+    "tts_duration": 2.038,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.574
+      ],
+      [
+        0.834,
+        1.566
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.4167272727272371,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.8527272727272726
+    }
+  },
+  {
+    "phrase_id": 83,
+    "start": 813.538,
+    "end": 826.142,
+    "duration": 12.604000000000042,
+    "vad_ids": [
+      205,
+      206
+    ],
+    "asr_text": "Следующую часть лекции будет читать нам Андрей. Андрей является ресёрш-инженером в Сберии в команде ASR. Также он работал в ВК и сейчас является аспирантом МИФИ.",
+    "text_en": "The next part of the lecture will be given to us by Andrei. Andrei is a relay engineer in Sberia on the ASR team. He also worked at the VC and is now a graduate of MIFI.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_083.wav",
+    "tts_duration": 14.519333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.366
+      ],
+      [
+        2.562,
+        3.87
+      ],
+      [
+        4.322,
+        6.75
+      ],
+      [
+        7.522,
+        9.15
+      ],
+      [
+        9.634,
+        12.798
+      ],
+      [
+        13.186,
+        14.014
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.5953939393938974,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 13.19939393939394
+    }
+  },
+  {
+    "phrase_id": 84,
+    "start": 826.37,
+    "end": 838.846,
+    "duration": 12.475999999999999,
+    "vad_ids": [
+      207,
+      208,
+      209
+    ],
+    "asr_text": "Он нам расскажет как раз про малоресурсные языки и языки, которые не относятся к английскому. И последняя часть лекции будет посвящена ML и аудио, будет две части.",
+    "text_en": "He's gonna tell us just about low-resource languages and languages that don't belong to English, and the last part of the lecture is about ML and audio, there's gonna be two parts.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_084.wav",
+    "tts_duration": 11.926,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.91
+      ],
+      [
+        3.362,
+        4.414
+      ],
+      [
+        4.674,
+        6.238
+      ],
+      [
+        6.946,
+        9.598
+      ],
+      [
+        10.178,
+        11.518
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0461177259768573,
+      "new_duration": 12.475999999999999
+    }
+  },
+  {
+    "phrase_id": 85,
+    "start": 839.106,
+    "end": 840.83,
+    "duration": 1.7240000000000464,
+    "vad_ids": [
+      210,
+      211
+    ],
+    "asr_text": "И, конечно же,",
+    "text_en": "And, of course,",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_085.wav",
+    "tts_duration": 1.8993333333333333,
+    "tts_speech_intervals": [
+      [
+        0.034,
+        0.382
+      ],
+      [
+        0.578,
+        1.438
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.0026666666666201877,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.7266666666666666
+    }
+  },
+  {
+    "phrase_id": 86,
+    "start": 843.074,
+    "end": 851.198,
+    "duration": 8.124000000000024,
+    "vad_ids": [
+      212,
+      213
+    ],
+    "asr_text": "Достаточно логично, нам её будут рассказывать Иван и Захар, которые имеют большой опыт в",
+    "text_en": "Logically enough, we'll be told by Ivan and Zahar, who have a lot of experience in",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_086.wav",
+    "tts_duration": 6.816666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.086
+      ],
+      [
+        1.378,
+        5.406
+      ],
+      [
+        5.698,
+        6.334
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.20855555555556324,
+      "pause_after": 0.4171111111111264,
+      "scale": 1.1,
+      "new_duration": 7.498333333333334
+    }
+  },
+  {
+    "phrase_id": 87,
+    "start": 851.394,
+    "end": 859.486,
+    "duration": 8.091999999999985,
+    "vad_ids": [
+      214,
+      215,
+      216
+    ],
+    "asr_text": "Как раз в домене аудио. Вот. И расскажет нам все инсайты внутри этого топика.",
+    "text_en": "He'll tell us all the sites inside that top.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_087.wav",
+    "tts_duration": 3.0086666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.526
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.5941555555555504,
+      "pause_after": 3.1883111111111004,
+      "scale": 1.1,
+      "new_duration": 3.3095333333333334
+    }
+  },
+  {
+    "phrase_id": 88,
+    "start": 859.906,
+    "end": 875.102,
+    "duration": 15.196000000000026,
+    "vad_ids": [
+      217,
+      218
+    ],
+    "asr_text": "И, как я уже говорила, мы заканчиваем наш курс ML-проектами, которые организовывать будет Аня. Аня является Applied Scientist в Amazon, а также является автором Telegram-канала учёной без степени.",
+    "text_en": "And, as I said, we're finishing our course with ML projects that will be arranged by Anja. Anja is an applied Scientist in Amazon, and is also the author of the Telegram channel by a scientist without a degree.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_088.wav",
+    "tts_duration": 14.241333333333333,
+    "tts_speech_intervals": [
+      [
+        0.162,
+        0.734
+      ],
+      [
+        1.058,
+        5.726
+      ],
+      [
+        6.114,
+        6.462
+      ],
+      [
+        6.914,
+        9.246
+      ],
+      [
+        9.57,
+        12.638
+      ],
+      [
+        12.834,
+        13.758
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.067034921823801,
+      "new_duration": 15.196000000000026
+    }
+  },
+  {
+    "phrase_id": 89,
+    "start": 875.234,
+    "end": 886.302,
+    "duration": 11.067999999999984,
+    "vad_ids": [
+      219,
+      220,
+      221,
+      222
+    ],
+    "asr_text": "Телеграм-канал тоже потрясающий. Очень много классных постов с разбором выходящих статей по speech, по...",
+    "text_en": "Telegram canal is also amazing.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_089.wav",
+    "tts_duration": 4.5873333333333335,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.95
+      ],
+      [
+        2.242,
+        3.166
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.0073111111111053,
+      "pause_after": 4.014622222222211,
+      "scale": 1.1,
+      "new_duration": 5.046066666666667
+    }
+  },
+  {
+    "phrase_id": 90,
+    "start": 886.402,
+    "end": 895.806,
+    "duration": 9.403999999999996,
+    "vad_ids": [
+      223,
+      224
+    ],
+    "asr_text": "В этом видео я расскажу о лэмбах и о том, что происходит в этой области.",
+    "text_en": "In this video, I'll tell you about the Lambs and what's going on in this area.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_090.wav",
+    "tts_duration": 6.027333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.246
+      ],
+      [
+        1.954,
+        4.446
+      ],
+      [
+        4.578,
+        5.534
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.9246444444444432,
+      "pause_after": 1.849288888888886,
+      "scale": 1.1,
+      "new_duration": 6.630066666666667
+    }
+  },
+  {
+    "phrase_id": 91,
+    "start": 897.218,
+    "end": 905.534,
+    "duration": 8.316000000000031,
+    "vad_ids": [
+      225,
+      226,
+      227,
+      228
+    ],
+    "asr_text": "Давайте теперь разберёмся, что нужно сделать, чтобы получить сертификат. Я снова перемещу свой крыльяш.",
+    "text_en": "Now let's figure out what we need to do to get a certificate.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_091.wav",
+    "tts_duration": 4.822,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.478
+      ],
+      [
+        1.058,
+        3.902
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.0039333333333433,
+      "pause_after": 2.007866666666687,
+      "scale": 1.1,
+      "new_duration": 5.304200000000001
+    }
+  },
+  {
+    "phrase_id": 92,
+    "start": 905.666,
+    "end": 915.838,
+    "duration": 10.171999999999912,
+    "vad_ids": [
+      229,
+      230
+    ],
+    "asr_text": "Итак, что нужно, чтобы получить сертификат? Первое, вам нужно зарегистрироваться на курс. Это очень важно, потому что если вы это не сделаете, мы не сможем вам прислать сертификат.",
+    "text_en": "So, what it takes to get a certificate?",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_092.wav",
+    "tts_duration": 3.243333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.574
+      ],
+      [
+        0.898,
+        2.75
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.201444444444415,
+      "pause_after": 4.40288888888883,
+      "scale": 1.1,
+      "new_duration": 3.5676666666666668
+    }
+  },
+  {
+    "phrase_id": 93,
+    "start": 916.098,
+    "end": 920.766,
+    "duration": 4.668000000000006,
+    "vad_ids": [
+      231
+    ],
+    "asr_text": "Второе, что нужно сделать, это подписаться на наш канал новостей.",
+    "text_en": "The second thing to do is sign up for our news channel.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_093.wav",
+    "tts_duration": 4.032666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.686
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.07735555555555755,
+      "pause_after": 0.15471111111111507,
+      "scale": 1.1,
+      "new_duration": 4.435933333333334
+    }
+  },
+  {
+    "phrase_id": 94,
+    "start": 921.858,
+    "end": 930.686,
+    "duration": 8.828000000000088,
+    "vad_ids": [
+      232,
+      233
+    ],
+    "asr_text": "Все ссылки будут прикреплены на этом слайде, будут прикреплены на степике, поэтому не упустите.",
+    "text_en": "All links will be attached to this slide, attached to the steppe, so don't miss it.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_094.wav",
+    "tts_duration": 6.219333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.918
+      ],
+      [
+        2.274,
+        3.422
+      ],
+      [
+        3.81,
+        4.926
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6622444444444738,
+      "pause_after": 1.3244888888889474,
+      "scale": 1.1,
+      "new_duration": 6.841266666666667
+    }
+  },
+  {
+    "phrase_id": 95,
+    "start": 930.914,
+    "end": 946.654,
+    "duration": 15.740000000000009,
+    "vad_ids": [
+      234,
+      235,
+      236
+    ],
+    "asr_text": "В посте, в телеграмме, если я не ошибаюсь, они тоже прикреплены. И, конечно, обязательно вступайте в чат курса, потому что весь движ, всё обсуждение и помощь в выполнении домашних заданий",
+    "text_en": "In the post, in the telegram, if I'm not mistaken, they're attached, too, and, of course, you have to get on the course because all the moves, all the discussions and help with homework are going on.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_095.wav",
+    "tts_duration": 11.19,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.758
+      ],
+      [
+        1.986,
+        4.51
+      ],
+      [
+        4.77,
+        7.806
+      ],
+      [
+        7.938,
+        10.718
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.1436666666666693,
+      "pause_after": 2.287333333333339,
+      "scale": 1.1,
+      "new_duration": 12.309000000000001
+    }
+  },
+  {
+    "phrase_id": 96,
+    "start": 947.458,
+    "end": 958.206,
+    "duration": 10.748000000000047,
+    "vad_ids": [
+      237,
+      238
+    ],
+    "asr_text": "В этом чате будет происходить много интересного.",
+    "text_en": "There's gonna be a lot of fun going on in this chat room.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_096.wav",
+    "tts_duration": 4.363333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.814
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.9827777777777935,
+      "pause_after": 3.9655555555555866,
+      "scale": 1.1,
+      "new_duration": 4.799666666666667
+    }
+  },
+  {
+    "phrase_id": 97,
+    "start": 959.074,
+    "end": 964.286,
+    "duration": 5.211999999999989,
+    "vad_ids": [
+      239,
+      240
+    ],
+    "asr_text": "Постараемся отвечать на всё, что вызовет у вас вопросы.",
+    "text_en": "We'll try to answer any questions you ask.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_097.wav",
+    "tts_duration": 4.448666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.686
+      ],
+      [
+        3.458,
+        3.966
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.10615555555555171,
+      "pause_after": 0.2123111111111034,
+      "scale": 1.1,
+      "new_duration": 4.893533333333334
+    }
+  },
+  {
+    "phrase_id": 98,
+    "start": 965.73,
+    "end": 966.718,
+    "duration": 0.9879999999999427,
+    "vad_ids": [
+      241
+    ],
+    "asr_text": "Вот.",
+    "text_en": "Here.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_098.wav",
+    "tts_duration": 2.4966666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.638
+      ],
+      [
+        1.058,
+        2.014
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 1.2816969696970268,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 2.2696969696969695
+    }
+  },
+  {
+    "phrase_id": 99,
+    "start": 967.81,
+    "end": 976.222,
+    "duration": 8.412000000000035,
+    "vad_ids": [
+      242,
+      243,
+      244
+    ],
+    "asr_text": "Давайте подробнее чуть-чуть расскажу вообще, из чего в целом состоит один модуль. Один модуль — это",
+    "text_en": "Let me tell you a little bit more about what one module is all about.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_099.wav",
+    "tts_duration": 3.574,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.038
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.493533333333345,
+      "pause_after": 2.9870666666666894,
+      "scale": 1.1,
+      "new_duration": 3.9314
+    }
+  },
+  {
+    "phrase_id": 100,
+    "start": 976.322,
+    "end": 986.11,
+    "duration": 9.788000000000011,
+    "vad_ids": [
+      245,
+      246
+    ],
+    "asr_text": "Грубо говоря, один мини-топик, который будет состоять из лекций, семинара и также домашнего задания.",
+    "text_en": "To be blunt, one mini-topic, which will consist of lectures, a seminar and also homework.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_100.wav",
+    "tts_duration": 7.243333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.798
+      ],
+      [
+        1.026,
+        2.206
+      ],
+      [
+        2.306,
+        5.854
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6067777777777813,
+      "pause_after": 1.2135555555555624,
+      "scale": 1.1,
+      "new_duration": 7.967666666666667
+    }
+  },
+  {
+    "phrase_id": 101,
+    "start": 986.21,
+    "end": 995.582,
+    "duration": 9.371999999999957,
+    "vad_ids": [
+      247,
+      248,
+      249
+    ],
+    "asr_text": "Периодически, если топик состоит, топик глобальный и будет длиться больше, чем одну неделю,",
+    "text_en": "Periodically, if there is a top, the top is global and will last longer than one week,",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_101.wav",
+    "tts_duration": 6.496666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.822
+      ],
+      [
+        2.498,
+        5.438
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7418888888888743,
+      "pause_after": 1.4837777777777483,
+      "scale": 1.1,
+      "new_duration": 7.1463333333333345
+    }
+  },
+  {
+    "phrase_id": 102,
+    "start": 996.514,
+    "end": 1014.558,
+    "duration": 18.043999999999983,
+    "vad_ids": [
+      250,
+      251,
+      252,
+      253
+    ],
+    "asr_text": "Может быть так, что домашнее задание идёт не одну неделю, а будет объединяться на вот эти две недели по топику. И для одного топика будет только одно домашнее задание на вот эти две недели. Вот, надеюсь, что объяснила и...",
+    "text_en": "Maybe it's not a week's homework, but it's gonna come together these two weeks at the top, and for one top, it's only gonna be one week's homework at this time.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_102.wav",
+    "tts_duration": 9.558,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.694
+      ],
+      [
+        1.826,
+        4.67
+      ],
+      [
+        4.994,
+        6.11
+      ],
+      [
+        6.338,
+        9.086
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.510066666666661,
+      "pause_after": 5.020133333333321,
+      "scale": 1.1,
+      "new_duration": 10.5138
+    }
+  },
+  {
+    "phrase_id": 103,
+    "start": 1014.85,
+    "end": 1030.27,
+    "duration": 15.419999999999959,
+    "vad_ids": [
+      254,
+      255,
+      256,
+      257,
+      258
+    ],
+    "asr_text": "Никого не запутала. Если вы проходили первый, второй семестр Deep Learning School, то вы уже заметили, что чаще всего домашние задания проверяются peer review, то есть проверяются вашими однокурсниками.",
+    "text_en": "If you've been going through the first, second semester of Deep Learning School, you've already noticed that your homework is most often checked by peer review, that is, tested by your classmates.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_103.wav",
+    "tts_duration": 13.462,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        2.174
+      ],
+      [
+        2.338,
+        5.15
+      ],
+      [
+        5.506,
+        10.11
+      ],
+      [
+        10.498,
+        11.102
+      ],
+      [
+        11.362,
+        13.022
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.2039333333333193,
+      "pause_after": 0.4078666666666386,
+      "scale": 1.1,
+      "new_duration": 14.808200000000001
+    }
+  },
+  {
+    "phrase_id": 104,
+    "start": 1030.37,
+    "end": 1031.582,
+    "duration": 1.2120000000002165,
+    "vad_ids": [
+      259
+    ],
+    "asr_text": "Где...",
+    "text_en": "Where...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_104.wav",
+    "tts_duration": 5.056666666666667,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        0.83
+      ],
+      [
+        1.666,
+        2.622
+      ],
+      [
+        4.194,
+        4.542
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.5078666666665477,
+      "delta_after": 1.2639333333332647,
+      "scale": 0.9090909090909091,
+      "new_duration": 4.596969696969697
+    }
+  },
+  {
+    "phrase_id": 105,
+    "start": 1032.642,
+    "end": 1038.526,
+    "duration": 5.8840000000000146,
+    "vad_ids": [
+      260,
+      261
+    ],
+    "asr_text": "Когда вы заливаете ваш ноутбук с решением, вы должны проверить...",
+    "text_en": "When you fill your decision laptop, you have to check...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_105.wav",
+    "tts_duration": 3.574,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.822
+      ],
+      [
+        2.178,
+        3.07
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6508666666666715,
+      "pause_after": 1.3017333333333432,
+      "scale": 1.1,
+      "new_duration": 3.9314
+    }
+  },
+  {
+    "phrase_id": 106,
+    "start": 1041.346,
+    "end": 1044.19,
+    "duration": 2.844000000000051,
+    "vad_ids": [
+      262
+    ],
+    "asr_text": "Ваших одногруппников, то есть вы должны...",
+    "text_en": "Your classmates, so you have to...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_106.wav",
+    "tts_duration": 3.4246666666666665,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.342
+      ],
+      [
+        1.698,
+        2.974
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.26933333333328235,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 3.1133333333333333
+    }
+  },
+  {
+    "phrase_id": 107,
+    "start": 1046.114,
+    "end": 1053.79,
+    "duration": 7.675999999999931,
+    "vad_ids": [
+      263,
+      264,
+      265
+    ],
+    "asr_text": "И также вам приходят три peer review, и оценка усредняется по этим трём оценкам.",
+    "text_en": "And you also have three peer reviews, and the estimate is averaged by these three estimates.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_107.wav",
+    "tts_duration": 5.942,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.206
+      ],
+      [
+        2.626,
+        5.406
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.37993333333331,
+      "pause_after": 0.7598666666666201,
+      "scale": 1.1,
+      "new_duration": 6.536200000000001
+    }
+  },
+  {
+    "phrase_id": 108,
+    "start": 1054.658,
+    "end": 1065.822,
+    "duration": 11.163999999999987,
+    "vad_ids": [
+      266,
+      267,
+      268
+    ],
+    "asr_text": "Ну и, собственно, как я уже говорила, последним заданием на курсе является итоговый проект, который вам нужно будет выбрать в конце.",
+    "text_en": "And actually, as I said before, the last course assignment is the final project that you'll have to choose at the end.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_108.wav",
+    "tts_duration": 8.171333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.95
+      ],
+      [
+        2.242,
+        3.774
+      ],
+      [
+        4.13,
+        7.39
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7251777777777733,
+      "pause_after": 1.4503555555555465,
+      "scale": 1.1,
+      "new_duration": 8.988466666666667
+    }
+  },
+  {
+    "phrase_id": 109,
+    "start": 1066.082,
+    "end": 1071.934,
+    "duration": 5.851999999999862,
+    "vad_ids": [
+      269,
+      270
+    ],
+    "asr_text": "В конце курса, который вам нужно будет делать в течение месяца.",
+    "text_en": "At the end of the course you'll have to do within a month.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_109.wav",
+    "tts_duration": 4.5873333333333335,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.07
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.2686444444443981,
+      "pause_after": 0.5372888888887963,
+      "scale": 1.1,
+      "new_duration": 5.046066666666667
+    }
+  },
+  {
+    "phrase_id": 110,
+    "start": 1073.25,
+    "end": 1084.99,
+    "duration": 11.740000000000009,
+    "vad_ids": [
+      271,
+      272,
+      273
+    ],
+    "asr_text": "Вот. Сертификаты существуют разные, то есть вы можете получить сертификат участника, сертификат третьей степени, второй и первой степени, в зависимости от того, насколько",
+    "text_en": "There are different certificates, i.e. you can get a participant's certificate, a third degree certificate, a second and a first degree, depending on how much",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_110.wav",
+    "tts_duration": 10.902,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.566
+      ],
+      [
+        1.826,
+        2.43
+      ],
+      [
+        2.85,
+        4.67
+      ],
+      [
+        4.898,
+        6.302
+      ],
+      [
+        6.498,
+        7.23
+      ],
+      [
+        7.394,
+        8.35
+      ],
+      [
+        8.834,
+        10.398
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.076866629976152,
+      "new_duration": 11.740000000000009
+    }
+  },
+  {
+    "phrase_id": 111,
+    "start": 1085.186,
+    "end": 1085.758,
+    "duration": 0.5720000000001164,
+    "vad_ids": [
+      274
+    ],
+    "asr_text": "Э...",
+    "text_en": "Uh...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_111.wav",
+    "tts_duration": 1.1526666666666667,
+    "tts_speech_intervals": [],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.1959999999999127,
+      "delta_after": 0.27987878787875875,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.0478787878787879
+    }
+  },
+  {
+    "phrase_id": 112,
+    "start": 1088.098,
+    "end": 1095.134,
+    "duration": 7.036000000000058,
+    "vad_ids": [
+      275
+    ],
+    "asr_text": "...домашек вы сделали и также зависит от того, насколько хорошо вы сделали проект.",
+    "text_en": "...the houses you've done, and they also depend on how well you've done the project.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_112.wav",
+    "tts_duration": 5.803333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.278
+      ],
+      [
+        2.05,
+        4.158
+      ],
+      [
+        4.258,
+        5.246
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.21744444444446356,
+      "pause_after": 0.4348888888889272,
+      "scale": 1.1,
+      "new_duration": 6.3836666666666675
+    }
+  },
+  {
+    "phrase_id": 113,
+    "start": 1097.602,
+    "end": 1103.134,
+    "duration": 5.531999999999925,
+    "vad_ids": [
+      276,
+      277
+    ],
+    "asr_text": "Вот, такое тоже может быть. Страшно получить сертификат участника.",
+    "text_en": "It's scary to get a participant's certificate.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_113.wav",
+    "tts_duration": 3.9366666666666665,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.398
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.4005555555555305,
+      "pause_after": 0.8011111111110611,
+      "scale": 1.1,
+      "new_duration": 4.330333333333334
+    }
+  },
+  {
+    "phrase_id": 114,
+    "start": 1104.002,
+    "end": 1104.542,
+    "duration": 0.5399999999999636,
+    "vad_ids": [
+      278
+    ],
+    "asr_text": "А...",
+    "text_en": "Uh...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_114.wav",
+    "tts_duration": 1.2913333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.766
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.6339393939394304,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.173939393939394
+    }
+  },
+  {
+    "phrase_id": 115,
+    "start": 1107.554,
+    "end": 1116.51,
+    "duration": 8.955999999999904,
+    "vad_ids": [
+      279,
+      280,
+      281
+    ],
+    "asr_text": "Также хотелось отдать дань благодарности всем предыдущим материалам по",
+    "text_en": "I would also like to pay tribute to all previous contributions",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_115.wav",
+    "tts_duration": 6.027333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.454
+      ],
+      [
+        4.066,
+        4.542
+      ],
+      [
+        4.994,
+        5.47
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.7753111111110789,
+      "pause_after": 1.5506222222221577,
+      "scale": 1.1,
+      "new_duration": 6.630066666666667
+    }
+  },
+  {
+    "phrase_id": 116,
+    "start": 1117.698,
+    "end": 1134.622,
+    "duration": 16.923999999999978,
+    "vad_ids": [
+      282
+    ],
+    "asr_text": "Звуку и по речи. И также отдать благодарность лекциям Наде Зуевой, которые являлись самыми первыми лекциями в Deep Learning School по звуку и по речи, в целом по аути-сигналам.",
+    "text_en": "And also give thanks to Nada Zueva's lectures, which were the first lectures in Deep Learning School on sound and speech, in general on autistic signals.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_116.wav",
+    "tts_duration": 9.974,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.91
+      ],
+      [
+        3.138,
+        6.91
+      ],
+      [
+        7.33,
+        9.502
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.9841999999999924,
+      "pause_after": 3.968399999999985,
+      "scale": 1.1,
+      "new_duration": 10.971400000000001
+    }
+  },
+  {
+    "phrase_id": 117,
+    "start": 1134.754,
+    "end": 1143.71,
+    "duration": 8.956000000000131,
+    "vad_ids": [
+      283,
+      284
+    ],
+    "asr_text": "Я выставила весь список ресурсов, которыми я пользовалась раньше и которые мне очень-очень понравились.",
+    "text_en": "I put out the entire list of resources that I used before and that I really, really liked.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_117.wav",
+    "tts_duration": 6.358,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.422
+      ],
+      [
+        3.778,
+        5.79
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.6540666666667102,
+      "pause_after": 1.3081333333334206,
+      "scale": 1.1,
+      "new_duration": 6.9938
+    }
+  },
+  {
+    "phrase_id": 118,
+    "start": 1144.002,
+    "end": 1150.398,
+    "duration": 6.395999999999958,
+    "vad_ids": [
+      285
+    ],
+    "asr_text": "Опять же, как я уже сказала, это были лекции на Аль Зуеве в 2020-2021 году.",
+    "text_en": "Again, as I said, it was a lecture at Al Zueva in 2020-2021.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_118.wav",
+    "tts_duration": 6.955333333333333,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.31
+      ],
+      [
+        1.602,
+        3.486
+      ],
+      [
+        3.618,
+        5.15
+      ],
+      [
+        5.346,
+        6.398
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0,
+      "delta_after": 0,
+      "scale": 0.9195820952746033,
+      "new_duration": 6.395999999999957
+    }
+  },
+  {
+    "phrase_id": 119,
+    "start": 1151.522,
+    "end": 1179.582,
+    "duration": 28.060000000000173,
+    "vad_ids": [
+      286
+    ],
+    "asr_text": "И также четыре таких основных больших курса, которые были в открытом доступе, которые всё ещё идут с 2020 года, уже пять лет идут. Это курсы Shadovsky Speech Processing Course. Это два курса на FISTECH. Один, который называется Deep Learning for Audio. И второй, который называется Речевые технологии, который ведётся как раз Жорой Господиновым.",
+    "text_en": "And there are also four of the major high-level courses that have been publicly available that have been going on since 2020, and they've been going on for five years, and this is Shadovsky Speech Processing Court. These are two courses at FISTECH, one called Deep Learning for Audio, and the other, called Voice Technology, which is run by George Lord.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_119.wav",
+    "tts_duration": 20.374666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        6.782
+      ],
+      [
+        7.202,
+        8.926
+      ],
+      [
+        9.378,
+        11.486
+      ],
+      [
+        12.002,
+        13.758
+      ],
+      [
+        13.954,
+        15.838
+      ],
+      [
+        16.002,
+        19.902
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.88262222222228,
+      "pause_after": 3.7652444444445594,
+      "scale": 1.1,
+      "new_duration": 22.412133333333333
+    }
+  },
+  {
+    "phrase_id": 120,
+    "start": 1179.746,
+    "end": 1180.254,
+    "duration": 0.5079999999998108,
+    "vad_ids": [
+      287
+    ],
+    "asr_text": "Эм...",
+    "text_en": "Uh...",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_120.wav",
+    "tts_duration": 1.2486666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        0.702
+      ]
+    ],
+    "align": {
+      "type": "minus",
+      "delta_before": 0.6271515151517042,
+      "delta_after": 0,
+      "scale": 0.9090909090909091,
+      "new_duration": 1.135151515151515
+    }
+  },
+  {
+    "phrase_id": 121,
+    "start": 1182.722,
+    "end": 1187.294,
+    "duration": 4.572000000000116,
+    "vad_ids": [
+      288,
+      289
+    ],
+    "asr_text": "Также Александром, который вас будет вести из speech-telling.",
+    "text_en": "It's also Alexander, who's gonna lead you out of speech-telling.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_121.wav",
+    "tts_duration": 4.502,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        3.166
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.0,
+      "pause_after": 0.0,
+      "scale": 1.0155486450466717,
+      "new_duration": 4.572000000000116
+    }
+  },
+  {
+    "phrase_id": 122,
+    "start": 1188.514,
+    "end": 1215.998,
+    "duration": 27.48400000000015,
+    "vad_ids": [
+      290,
+      291,
+      292,
+      293
+    ],
+    "asr_text": "Далее очень классный курс, о котором я уже упоминала, который ведётся в соавторстве с Петром. Это курс вышки Deep Learning for Audio, который тоже ведётся с 2020 года. Материалы там просто прекрасные, лекции прекрасные. Пожалуйста, обязательно зачекайте их всех. Если вдруг вам захочется углубиться в ту или иную тему,",
+    "text_en": "Next is a very cool course, which I've already mentioned, which is co-authored with Peter, and this is the Deep Learning for Audio, which has also been going on since 2020. The material there is beautiful, the lectures are beautiful. Please make sure you lock them all up.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_122.wav",
+    "tts_duration": 17.122,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        1.854
+      ],
+      [
+        2.21,
+        5.502
+      ],
+      [
+        5.698,
+        8.382
+      ],
+      [
+        8.546,
+        11.198
+      ],
+      [
+        11.714,
+        14.622
+      ],
+      [
+        15.042,
+        16.638
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 2.883266666666716,
+      "pause_after": 5.766533333333433,
+      "scale": 1.1,
+      "new_duration": 18.834200000000003
+    }
+  },
+  {
+    "phrase_id": 123,
+    "start": 1216.386,
+    "end": 1237.278,
+    "duration": 20.892000000000053,
+    "vad_ids": [
+      294
+    ],
+    "asr_text": "Вы можете пройтись по силабусу каждого курса, найти для себя что-то, что они рассказывают более подробно, чем мы затронем здесь, в этих лекциях, и самим самостоятельно углубиться. К счастью, все материалы, то есть и лекции, и семинары, и их записи,",
+    "text_en": "You can walk through the powerbus of every course, find something for yourself that they're going to tell more than we're going to touch here in these lectures, and you can go deeper on your own.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_123.wav",
+    "tts_duration": 10.304666666666666,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.526
+      ],
+      [
+        3.042,
+        7.07
+      ],
+      [
+        7.234,
+        9.822
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 3.1856222222222397,
+      "pause_after": 6.37124444444448,
+      "scale": 1.1,
+      "new_duration": 11.335133333333333
+    }
+  },
+  {
+    "phrase_id": 124,
+    "start": 1237.41,
+    "end": 1244.67,
+    "duration": 7.259999999999991,
+    "vad_ids": [
+      295,
+      296
+    ],
+    "asr_text": "И даже домашки, выложенные абсолютно бесплатно в открытом доступе на GitHub.",
+    "text_en": "And even the homework, which is completely free of charge on GitHub.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_124.wav",
+    "tts_duration": 3.755333333333333,
+    "tts_speech_intervals": [
+      [
+        0.002,
+        3.294
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.0430444444444413,
+      "pause_after": 2.0860888888888827,
+      "scale": 1.1,
+      "new_duration": 4.130866666666667
+    }
+  },
+  {
+    "phrase_id": 125,
+    "start": 1245.858,
+    "end": 1254.782,
+    "duration": 8.923999999999978,
+    "vad_ids": [
+      297,
+      298,
+      299
+    ],
+    "asr_text": "Так что обязательно воспользуйтесь. И также я сюда прикрепила два любимых канала. Первый канал YouTube — это...",
+    "text_en": "So you have to use it, and I also attached two favorite channels here.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_125.wav",
+    "tts_duration": 5.75,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.406
+      ],
+      [
+        1.698,
+        5.278
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 0.866333333333326,
+      "pause_after": 1.7326666666666521,
+      "scale": 1.1,
+      "new_duration": 6.325
+    }
+  },
+  {
+    "phrase_id": 126,
+    "start": 1255.362,
+    "end": 1286.206,
+    "duration": 30.843999999999824,
+    "vad_ids": [
+      300
+    ],
+    "asr_text": "Собственно, канал Макса Каледина и, как я понимаю, его команды, которые включают себе вот этот курс Deep Learning for Audio. Вот, в целом, можете просто прочекать. У него очень классные лекции. И второй канал — это канал Валерия Виларда. В общем, это просто очень крутой энтузиаст в области музыки и звука, который записывает множество разных видосиков по аудио...",
+    "text_en": "As a matter of fact, Max Caledin's channel and, I understand, his teams, which include this Deep Learning for Audio course. Here's the whole thing, you can just read it. He's got really great lectures. And the second channel is Valerie Willard's.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_126.wav",
+    "tts_duration": 18.17866666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        1.246
+      ],
+      [
+        1.474,
+        3.358
+      ],
+      [
+        4.034,
+        5.054
+      ],
+      [
+        5.442,
+        8.574
+      ],
+      [
+        9.026,
+        10.078
+      ],
+      [
+        10.306,
+        11.454
+      ],
+      [
+        11.938,
+        13.982
+      ],
+      [
+        14.434,
+        16.83
+      ],
+      [
+        17.346,
+        17.662
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 3.6158222222221625,
+      "pause_after": 7.231644444444326,
+      "scale": 1.1,
+      "new_duration": 19.996533333333335
+    }
+  },
+  {
+    "phrase_id": 127,
+    "start": 1286.306,
+    "end": 1295.614,
+    "duration": 9.307999999999993,
+    "vad_ids": [
+      301,
+      302,
+      303
+    ],
+    "asr_text": "Очень подробно рассказывает, описывает разные темы, разные задачи на английском языке, правда.",
+    "text_en": "Very detailed, describing different topics, different tasks in English, really.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_127.wav",
+    "tts_duration": 4.960666666666667,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.302
+      ],
+      [
+        2.498,
+        4.478
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.283755555555553,
+      "pause_after": 2.5675111111111066,
+      "scale": 1.1,
+      "new_duration": 5.456733333333333
+    }
+  },
+  {
+    "phrase_id": 128,
+    "start": 1295.714,
+    "end": 1304.055875,
+    "duration": 8.341875000000073,
+    "vad_ids": [
+      304,
+      305,
+      306
+    ],
+    "asr_text": "Если у вас нет никаких проблем с английским, то вы можете также послушать его лекции. Они классные. На этом всё. Спасибо за внимание.",
+    "text_en": "If you don't have any problems with English, you can also listen to his lectures.",
+    "tts_path": "C:\\Users\\gatch\\OneDrive\\Рабочий стол\\projects\\lecture_dubbing\\outputs\\tts\\seg_128.wav",
+    "tts_duration": 4.779333333333334,
+    "tts_speech_intervals": [
+      [
+        0.0,
+        2.014
+      ],
+      [
+        2.338,
+        4.286
+      ]
+    ],
+    "align": {
+      "type": "plus",
+      "pause_before": 1.0282027777778018,
+      "pause_after": 2.056405555555604,
+      "scale": 1.1,
+      "new_duration": 5.257266666666667
+    }
+  }
+]
